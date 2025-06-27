@@ -23,3 +23,4 @@
 * [**Docker container connection issue**](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Docker-container-connection-issue)
 * [**Automation on restart**](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Automation-on-restart)
 * [**Mount a new HDD**](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Mount-a-new-HDD)
+* [**Mount a new directory to the existing docker container**](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Mount-a-new-directory-to-the-existing-docker-container)
