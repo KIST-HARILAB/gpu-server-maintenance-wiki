@@ -1,9 +1,10 @@
 # KIST HARILAB GPU Server Maintenance Wiki
 
 ## [Initial server setup](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup)
-  1. [Add admin user](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup#add-admin-user)
-  2. [Install docker](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup#install-docker)
-  3. [Docker user permission](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup#docker-user-permission)
+  1. [ssh port](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup#ssh-port)
+  2. [Add admin user](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup#add-admin-user)
+  3. [Install docker](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup#install-docker)
+  4. [Docker user permission](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Initial-server-setup#docker-user-permission)
 
 ##  [Docker container creation](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Docker-container-creation)
   1. [Create a Dockerfile](https://github.com/KIST-HARILAB/gpu-server-maintenance-wiki/wiki/Docker-container-creation#create-a-dockerfile)
